@@ -1,0 +1,48 @@
+h1{
+  color: orangered;
+  text-align: center;
+}
+
+p{
+  color: red;
+}
+
+div{
+  /* font-family: Arial, sans-serif;
+  font-size: 28px;
+  font-weight: bold;
+  color: yellow;
+  background-color: teal;
+  border: 3px solid blue; */
+  /* width: 70%;
+  height: 170px; */
+  /* margin: 30px;
+  padding: 20px; */
+}
+table{
+  border: 2px solid blue;
+  border-collapse: collapse;
+  width: 50%;
+}
+th{
+    background-color: lightgrey;
+    text-align: center;
+    background-color: turquoise;
+}
+td, th{
+  border: 2px solid grey;
+  padding: 5px;
+
+}
+#top{
+  font-size: 36px;
+}
+#middle{
+  font-size: 24px;
+}
+#bottm{
+  font-size: 12px;
+}
+.name{
+  font-weight: bold;
+}
